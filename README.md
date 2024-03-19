@@ -1,1 +1,2 @@
 # TrainingRepository
+Проверка
